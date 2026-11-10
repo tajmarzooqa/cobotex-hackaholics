@@ -1,0 +1,6 @@
+{
+  "name": "ResQ – Emergency Response & Disaster Management",
+  "description": "Comprehensive emergency response coordination, real-time disaster reporting, severity classification, and resource dispatch management platform.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
